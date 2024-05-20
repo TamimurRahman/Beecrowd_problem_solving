@@ -15,9 +15,7 @@ int main(){
             array[i]=temp;
         }
     }
-    
    }
-
    printf("%d\n%d\n%d\n",array[0],array[1],array[2]);
    printf("\n%d\n%d\n%d\n",a,b,c); 
 }
